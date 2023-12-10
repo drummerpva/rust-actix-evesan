@@ -846,6 +846,8 @@ version = "0.1.0"
 dependencies = [
  "actix-web",
  "dotenv",
+ "serde",
+ "serde_json",
 ]
 
 [[package]]
